@@ -1,0 +1,11 @@
+Vamos
+testar
+esse
+arquivo
+de
+texto
+em
+java
+no
+windows
+kkkk

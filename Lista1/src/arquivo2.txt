@@ -1,0 +1,10 @@
+Testaremos
+no
+windows
+esse 
+arquivo
+de
+texto
+que
+tem
+java

@@ -1,0 +1,9 @@
+Trabalho de Persistência
+Alunos: 
+    Abner Enoque Monteiro Silva¹ - 511325
+    Danilo dos Santos Gomes²     - 536894
+
+Divisão do trabalho
+
+A princípio buscamos entender como funcionaria a leitura e escrita de arquivos (csv,json,xml) e pesquisamos sobre zipagem de arquivos e entramos em um consenso para separar as tarefas que cada um ia ficar. Construímos uma estrutura básica. Utilizamos a extensão LiveShare para compartilhamento de pastas e para codificarmos ao mesmo tempo.
+A divisão ficou desta forma: Abner: Menu principal, Converter dados CSV para JSON, Compactar arquivos CSV, Calcular HASH, e Danilo: Construtor Animal, Inserir entidade no CSV, Mostrar quantidade de entidades. Contudo, mesmo com a divisão, os dois trabalhavam juntos, logo cada dúvida ou alteração era feita pelos dois, caso fosse necessário. A construção do .txt foi feita em conjunto.

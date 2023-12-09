@@ -1,0 +1,42 @@
+-----> FOI FEITO NO GOOGLE COLAB <----- 
+
+!time cksum csv2.csv
+
+2824674559 233042344 csv2.csv
+
+real	0m0.690s
+user	0m0.660s
+sys	0m0.025s
+
+
+x---x---x---x---x---x---x---x---x---x---x---x
+
+!time md5sum csv2.csv
+
+75c9e7b5dd6548ebf9d879937905931c  csv2.csv
+
+real	0m0.405s
+user	0m0.364s
+sys	0m0.036s
+
+
+x---x---x---x---x---x---x---x---x---x---x---x
+
+!time sha1sum csv2.csv
+
+aa0cca517cc4261cb28a8b0829e6e75e8ecd589d  csv2.csv
+
+real	0m0.387s
+user	0m0.362s
+sys	0m0.022s
+
+x---x---x---x---x---x---x---x---x---x---x---x
+
+!time sha256sum csv2.csv
+
+f93284377a3856f3b5ce72ea88bbab45fe7ead8dba64efa0a2ba6accd994d9de  csv2.csv
+
+real	0m0.916s
+user	0m0.884s
+sys	0m0.028s
+

@@ -1,0 +1,13 @@
+Divisão do Trbalho de Persistência - Etapa 3
+
+Dupla: Danilo Gomes e Abner Enoque
+
+Nos reunimos para debater como iriamos realizar este projeto.
+
+Ficou firmado que iriamos
+
+- Os dois implementaram os DAOs específicos para o MongoDB permitindo que todas as funcionalidades sejam executadas corretamente.
+- Abner garantiu que as funcionalidades planejadas estejam disponíveis no MongoDB.
+- Abner realizou melhorias nas etapas anteriores refinando a modelagem para o MongoDB.
+- Os dois revisaram as etapas anteriores sugerindo melhorias quando necessário.
+

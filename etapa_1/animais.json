@@ -1,0 +1,121 @@
+[ {
+  "id" : "2a6ee822-8eca-4cb1-af8d-89a4849abfc0",
+  "tipo" : "Gato",
+  "nome" : "Mia",
+  "sexo" : "F",
+  "raca" : "Siames",
+  "idade" : 3,
+  "peso" : 2.3
+}, {
+  "id" : "2767980c-fc1a-4973-aa10-61143ddbe753",
+  "tipo" : "Cachorro",
+  "nome" : "Max",
+  "sexo" : "M",
+  "raca" : "Labrador",
+  "idade" : 2,
+  "peso" : 30.0
+}, {
+  "id" : "af1ade68-9080-47aa-8cff-3ab62632ff46",
+  "tipo" : "Gato",
+  "nome" : "Luna",
+  "sexo" : "F",
+  "raca" : "Persa",
+  "idade" : 3,
+  "peso" : 4.5
+}, {
+  "id" : "311c4f9e-8c53-490a-ad44-4407a9f5541e",
+  "tipo" : "Cachorro",
+  "nome" : "Bella",
+  "sexo" : "F",
+  "raca" : "Golden Retriever",
+  "idade" : 5,
+  "peso" : 25.2
+}, {
+  "id" : "602093d9-91c1-42d2-a868-7ed4aade687e",
+  "tipo" : "Gato",
+  "nome" : "Simba",
+  "sexo" : "M",
+  "raca" : "Maine Coon",
+  "idade" : 1,
+  "peso" : 7.0
+}, {
+  "id" : "04b6aff0-9dd5-47ea-b79c-9e752d416e50",
+  "tipo" : "Gato",
+  "nome" : "Oreo",
+  "sexo" : "Macho",
+  "raca" : "Siames",
+  "idade" : 6,
+  "peso" : 4.2
+}, {
+  "id" : "e732524f-a004-4050-9ef3-1f57ea982e36",
+  "tipo" : "Cachorro",
+  "nome" : "Charlie",
+  "sexo" : "M",
+  "raca" : "Boxer",
+  "idade" : 2,
+  "peso" : 28.3
+}, {
+  "id" : "fbd78c12-7402-436a-9d94-10c7b7e2e3ba",
+  "tipo" : "Cachorro",
+  "nome" : "Daisy",
+  "sexo" : "F",
+  "raca" : "Shih Tzu",
+  "idade" : 4,
+  "peso" : 6.2
+}, {
+  "id" : "9b2d99fc-bf4e-41c5-915b-2def3e569bf6",
+  "tipo" : "Cachorro",
+  "nome" : "Bob",
+  "sexo" : "M",
+  "raca" : "SRD",
+  "idade" : 5,
+  "peso" : 8.2
+}, {
+  "id" : "240a3cd7-1c5b-40c9-ab83-df521a1b4cca",
+  "tipo" : "Gato",
+  "nome" : "Alfredo",
+  "sexo" : "M",
+  "raca" : "Persa",
+  "idade" : 3,
+  "peso" : 6.2
+}, {
+  "id" : "6732cfae-1319-452c-a08e-13b219274dd7",
+  "tipo" : "Gato",
+  "nome" : "Quindim",
+  "sexo" : "M",
+  "raca" : "SRD",
+  "idade" : 5,
+  "peso" : 8.3
+}, {
+  "id" : "4048ed76-8a58-43a0-a53a-abe5e2db5e93",
+  "tipo" : "Cachorro",
+  "nome" : "Julio",
+  "sexo" : "M",
+  "raca" : "SRD",
+  "idade" : 4,
+  "peso" : 8.0
+}, {
+  "id" : "f62013b6-8de5-4c73-8c7b-9db2b2e71f56",
+  "tipo" : "Gato",
+  "nome" : "Alfredo",
+  "sexo" : "M",
+  "raca" : "Srd",
+  "idade" : 5,
+  "peso" : 3.4
+}, {
+  "id" : "b68201cf-d1f9-4578-8b12-1c95c695748d",
+  "tipo" : "Rã",
+  "nome" : "Grab",
+  "sexo" : "F",
+  "raca" : "Linfo",
+  "idade" : 1,
+  "peso" : 0.5
+}, {
+  "id" : "7011ed90-1441-4eeb-9407-891c3865c61d",
+  "tipo" : "Escorpião",
+  "nome" : "Guedo",
+  "sexo" : "M",
+  "raca" : "Tiracnídeo",
+  "idade" : 1,
+  "peso" : 1.2
+} ]
